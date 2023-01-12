@@ -1,9 +1,9 @@
-import random# For generating random numbers
-import sys  # We will use sys.exit to exit the program
+import random
+import sys  
 import pygame 
-from pygame.locals import * # Basic pygame imports
+from pygame.locals import * 
 
-# Global Variables for the game
+
 FPS = 32
 SCREENWIDTH = 289
 SCREENHEIGHT = 511
@@ -15,5 +15,5 @@ PLAYER = 'image/bird.png'
 BACKGROUND = 'gallery/sprites/background.png'
 PIPE = 'gallery/sprites/pipe.png'
 
-git@github.com:Omsonani2665/FlappyGame.git
+
 
